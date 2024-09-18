@@ -12,8 +12,7 @@
  Teste para Target Sistemas que consistiu em 5 questões envolvendo lógica e programação em Dart.
 </p>
 <p >
-  <h4></h4>
-Os códigos estão contidos no repositório, aqui estão apenas as repostas pra facilitar a avaliação do recruiter.
+Os códigos estão no repositório, aqui estão apenas as repostas pra facilitar a avaliação do recruiter.
 </p>  
 
 <h2> Resultados </h2>  
@@ -55,10 +54,10 @@ se tiver acesa, ao B e se tiver apagada E fria, corresponde ao C.
 
    ```
    - Com o git instalado no computador, clone o repositório usando o:
-   $ git clone https://github.com/e-medeiros1/target_test.git 
+   $ git clone https://github.com/e-medeiros1/target_test.git
    - Entre no diretório com:
    $ cd .\target_test\bin\
-   - Rode a aplicação através do comando: 
+   - Rode os desafios através do comando: 
    $ dart run .\nome-do-desafio.dart 
    ```
 
