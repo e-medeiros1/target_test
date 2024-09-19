@@ -3,7 +3,7 @@
 
 import 'dart:io';
 
-void main() {
+void verificaLetra() {
   print('Digite uma string: ');
   String input = stdin.readLineSync()!;
 
