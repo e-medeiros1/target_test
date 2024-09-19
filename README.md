@@ -58,7 +58,8 @@ se tiver acesa, ao B e se tiver apagada E fria, corresponde ao C.
    - Entre no diretório com:
    $ cd .\target_test\bin\
    - Rode os desafios através do comando: 
-   $ dart run .\nome-do-desafio.dart 
+   $ dart run .\target_test.dart 
+   Preencha os campos requeridos de acordo com a pergunta
    ```
 
    ---  
