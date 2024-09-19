@@ -1,4 +1,4 @@
-void main() {
+void resultadoSoma() {
   int indice = 12;
   int soma = 0;
 
@@ -6,7 +6,7 @@ void main() {
     soma += k;
   }
 
-  print('A soma dos números é: $soma');
+  print('Baseado na questão 3, soma dos números é: $soma');
 
   //Resultado: 78
 }
