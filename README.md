@@ -16,7 +16,7 @@ Os códigos estão no repositório, aqui estão apenas as repostas pra facilitar
 </p>  
 
 <h2> Resultados </h2>  
-<h3> Questão 1 - Fibbonacci </h3>  
+<h3> Questão 1 - Fibonacci </h3>  
 <p>
       <img src="https://github.com/user-attachments/assets/7261e018-0043-4e05-9798-c87547e7f9cf" width="500" alt="Resultado"/>
 </p>  
